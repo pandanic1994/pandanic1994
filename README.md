@@ -72,36 +72,6 @@
   <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/js.webp">
   <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/github.webp">
 
-  <!-- just img 图片 -->
-  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/icon.png" />
-
-
-  <div align="center">
-    <!-- GitHub 奖杯🏆 -->
-    <img  src="https://github-profile-trophy.vercel.app/?username=xiaoshazhe&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><br>
-  </div>
-  <div align="center">
-    <!-- GitHub 数据统计 -->
-    <img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=xiaoshazhe&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
-  </div>
-  
-  <!--metrics 活动面板-->
-  <div align="center">
-    <img src="https://metrics.lecoq.io/xiaoshazhe?template=classic&config.timezone=Asia%2FShanghai">
-  </div>
-  
-  
-<!-- GitHub Activity Graph GitHub 活动图 -->
-<table align="center">
-  <tr>
-    <td><img src="https://github-readme-activity-graph.cyclic.app/graph?username=xiaoshazhe&theme=xcode&bg_color=FF000000&hide_border=true" alt="Activity"/></td>
-  </tr>
-</table>
-
-  </div>
-
-</div>
-
 
 
 
