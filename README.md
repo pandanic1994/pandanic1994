@@ -7,18 +7,6 @@
   </h1>
 
 
-  <!-- profile logo 个人资料徽标 -->
-  <div align="center">
-    <a href="https://pandanic.club/"><img src="https://img.shields.io/badge/Website-博客-blue" /></a>&emsp;
-    <!-- visitor statistics logo 访客数统计徽标 -->
-    <img src="https://visitor-badge.glitch.me/badge?page_id=xiaoshazhe" alt="访客统计" />
-  </div>
-  
-  <div align="center">
-    <!-- 连续提交代码的天数及贡献总数 -->
-    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=xiaoshazhe&theme=dark&hide_border=true" />
-  </div>
-
 
   <!--  skill badge 技能徽章 -->
 
